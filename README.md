@@ -6,10 +6,6 @@
 <h1 align="center">Welcome to my GitHub profile 🐱 </h1>
 
 <p align="center">
-  <a href="https://github.com/ignacix"><img src="https://github-readme-stats.vercel.app/api?username=ignacix&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
-</p>
-
-<p align="center">
   <strong><a href="https://ignaciojerez.com.ar/">Official Website</a></strong> |
   <strong><a href="https://www.instagram.com/ignacix.ok/">Instagram</a></strong> |
   <strong><a href="https://discord.com/invite/gfFMgPp2z6">Discord</a></strong> |
