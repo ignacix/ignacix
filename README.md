@@ -13,3 +13,5 @@
 </p>
 
 <p align="center">❤ I'm currently in the fifth semester of the University Technician degree in Informatic Systems at the National Technological University - FRGP , in Buenos Aires. |  I love creating, learning, and researching information about technology, music, and computer programming.</p>
+
+<p>🦉 Now I'm learning more about Backend development with .Net and improving my english skills with Duolingo-app and reading books </p>
